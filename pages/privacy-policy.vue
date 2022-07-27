@@ -71,10 +71,10 @@
       application, and gathering demographic information.
     </p>
     <h2>Advertising Partners Privacy Policies</h2>
-    <P
-      >You may consult this list to find the Privacy Policy for each of the
-      advertising partners of Overworked.</P
-    >
+    <p>
+      You may consult this list to find the Privacy Policy for each of the
+      advertising partners of Overworked.
+    </p>
     <p>
       Third-party ad servers or ad networks uses technologies like cookies,
       JavaScript, or Web Beacons that are used in their respective
@@ -129,29 +129,30 @@
       protection rights. Every user is entitled to the following:
     </p>
     <p>
-      The right to access – You have the right to request copies of your
+      The right to access &ndash; You have the right to request copies of your
       personal data. We may charge you a small fee for this service.
     </p>
     <p>
-      The right to rectification – You have the right to request that we correct
-      any information you believe is inaccurate. You also have the right to
-      request that we complete the information you believe is incomplete.
+      The right to rectification &ndash; You have the right to request that we
+      correct any information you believe is inaccurate. You also have the right
+      to request that we complete the information you believe is incomplete.
     </p>
     <p>
-      The right to erasure – You have the right to request that we erase your
-      personal data, under certain conditions.
+      The right to erasure &ndash; You have the right to request that we erase
+      your personal data, under certain conditions.
     </p>
     <p>
-      The right to restrict processing – You have the right to request that we
-      restrict the processing of your personal data, under certain conditions.
+      The right to restrict processing &ndash; You have the right to request
+      that we restrict the processing of your personal data, under certain
+      conditions.
     </p>
     <p>
-      The right to object to processing – You have the right to object to our
-      processing of your personal data, under certain conditions.
+      The right to object to processing &ndash; You have the right to object to
+      our processing of your personal data, under certain conditions.
     </p>
     <p>
-      The right to data portability – You have the right to request that we
-      transfer the data that we have collected to another organization, or
+      The right to data portability &ndash; You have the right to request that
+      we transfer the data that we have collected to another organization, or
       directly to you, under certain conditions.
     </p>
     <p>
