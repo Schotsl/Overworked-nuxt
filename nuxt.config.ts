@@ -1,6 +1,10 @@
-import { defineNuxtConfig } from 'nuxt'
+import { defineNuxtConfig } from "nuxt";
 
-// https://v3.nuxtjs.org/api/configuration/nuxt.config
+import eslintPlugin from "vite-plugin-eslint";
+
 export default defineNuxtConfig({
-
-})
+  target: "static",
+  vite: {
+    plugins: [eslintPlugin()],
+  },
+});

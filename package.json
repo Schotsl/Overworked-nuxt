@@ -1,12 +1,27 @@
 {
-  "private": true,
+  "name": "Overworked-client",
+  "private": false,
+  "version": "v0.1.0-beta",
   "scripts": {
-    "build": "nuxt build",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "lint": "eslint './**/*' --fix",
+    "check": "eslint './**/*'",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "preview": "nuxt preview",
+    "generate": "nuxt generate"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.6"
+    "@nuxtjs/eslint-config-typescript": "^10.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/parser": "^5.26.0",
+    "eslint": "^8.16.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^9.0.1",
+    "nuxt": "3.0.0-rc.3",
+    "sass": "^1.51.0",
+    "typescript": "^4.7.2",
+    "vite-plugin-eslint": "^1.6.1"
   }
 }
