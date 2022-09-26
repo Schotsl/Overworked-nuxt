@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "overworked-436b3", 
     "public": ".output/public",
     "ignore": [
       "firebase.json",
